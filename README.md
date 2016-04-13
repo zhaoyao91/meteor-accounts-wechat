@@ -3,8 +3,8 @@ Meteor accounts package for wechat.
 Because this package is generally used in China, this doc will be written in chinese.
 
 ## 简介
-- 使Meteor应用支持微**微信开放平台**登录。
-- 支持绑定**微信公众平台**登录。
+- 使Meteor应用支持微**微信开放平台**登录
+- 支持绑定**微信公众平台**登录
 - 若需支持**微信公众平台**登录，请查看[https://github.com/zhaoyao91/meteor-accounts-wechat-mp](https://github.com/zhaoyao91/meteor-accounts-wechat-mp)
 - 请自行了解微信开放平台和公众平台的关系和区别
 
