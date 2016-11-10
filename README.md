@@ -39,6 +39,9 @@ Meteor.loginWithWeChat(function(err, res){
 })
 ```
 
+### Note
+微信开放平台相关应用的授权回调域、对应Meteor应用的ROOT_URL以及用户访问该应用的实际url必须保持一致。
+
 ## 参考
 - [boxfish/meteor-accounts-wechat](https://github.com/boxfish/meteor-accounts-wechat/)
 - [boxfish/meteor-wechat](https://github.com/boxfish/meteor-wechat/)
