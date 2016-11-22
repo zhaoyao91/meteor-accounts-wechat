@@ -20,7 +20,7 @@ meteor add service-configuration
 server端：
 ```
 ServiceConfiguration.configurations.upsert({
-    service: "wechat"
+    service: WeChat.serviceName // 可以通过Meteor.settings.public.wechatServiceName来修改这个值
 }, {
     $set: {
         appId: '...',
