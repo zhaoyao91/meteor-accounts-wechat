@@ -1,6 +1,6 @@
 Package.describe({
     name: 'zhaoyao91:accounts-wechat',
-    version: '0.1.0',
+    version: '0.1.1',
     summary: 'meteor accounts package for wechat',
     git: 'https://github.com/zhaoyao91/meteor-accounts-wechat',
     documentation: 'README.md'
